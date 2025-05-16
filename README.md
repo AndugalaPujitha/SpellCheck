@@ -1,4 +1,5 @@
-Spelling Checker Application with GUI:
+# Spelling Checker [  🌐Demo](https://spellcheckersystem.streamlit.app/)
+
 Introduction:
 This Python application allows users to check the spelling of words entered into the text entry field. It provides suggestions for correctly spelled words and displays synonyms for the suggested word. The graphical user interface (GUI) is implemented using the Tkinter library, and the spelling check functionality is powered by the TextBlob library and NLTK's WordNet.
 
